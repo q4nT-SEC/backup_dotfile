@@ -1,0 +1,21 @@
+{
+  "mpvSocket": "/tmp/mpv-socket",
+  "wallpapersFolder": "/home/qant/Pictures",
+  "profile": "fast",
+  "fillMode": "fit",
+  "thumbCacheReady": true,
+  "currentWallpaper": "/home/qant/Pictures/hatsune-miku-standing-on-the-street-in-the-rain-moewalls-com.mp4",
+  "isPlaying": true,
+  "active": true,
+  "hardwareAcceleration": true,
+  "automation": false,
+  "automationMode": "random",
+  "automationTime": 300,
+  "oldWallpapers": {
+    "eDP-1": {
+      "light": "/home/qant/.cache/noctalia/images/wallpapers/thumbnails/mpvpaper/hatsune-miku-standing-on-the-street-in-the-rain-moewalls-com.mp4.bmp",
+      "dark": "/home/qant/.cache/noctalia/images/wallpapers/thumbnails/mpvpaper/hatsune-miku-standing-on-the-street-in-the-rain-moewalls-com.mp4.bmp"
+    }
+  }
+}
+

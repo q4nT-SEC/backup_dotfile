@@ -1,0 +1,18 @@
+{
+  "activeBackend": "qt6-multimedia",
+  "automationMode": "random",
+  "automationTime": 300,
+  "fillMode": "fit",
+  "mpvSocket": "/tmp/mpv-socket",
+  "profile": "default",
+  "volume": 1,
+  "wallpapersFolder": "/home/qant/Pictures",
+  "thumbCacheReady": true,
+  "enabled": false,
+  "eDP-1": {
+    "currentWallpaper": "/home/qant/Pictures/anime-girl-in-the-rain-moewalls-com.mp4",
+    "noctaliaWallpaper": "/home/qant/Pictures/CIRNO/548201.jpg",
+    "isPlaying": true
+  }
+}
+
